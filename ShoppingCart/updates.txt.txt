@@ -1,0 +1,13 @@
+				Technology to be used		Application Details
+				Spring MVC		Crud management
+				Spring		
+Pages				Hibernate		
+Welcome Page				JQuery		
+Category Page				JEE		
+Cart Page						
+Payment Page						
+				Version management		
+				Git		
+						
+				Application Server		
+				Tomcat		
